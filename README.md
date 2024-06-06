@@ -1,2 +1,2 @@
-# Jeroacuna.github-io
+# jeroacuna.github.io
 Jero acuna
